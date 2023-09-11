@@ -1,0 +1,27 @@
+[
+  {
+    "id": "W001",
+    "name": "Classic Silver Watch 1",
+    "price": 149.99
+  },
+  {
+    "id": "W002",
+    "name": "Sporty Chronograph 2",
+    "price": 199.99
+  },
+  {
+    "id": "W003",
+    "name": "Elegant Rose Gold 3",
+    "price": 179.95
+  },
+  {
+    "id": "W004",
+    "name": "Digital Smartwatch 4",
+    "price": 249.99
+  },
+  {
+    "id": "W005",
+    "name": "Luxury Diamond Watch 5",
+    "price": 999.99
+  }
+]
